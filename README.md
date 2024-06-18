@@ -1,5 +1,7 @@
 # AquA
-A virtual aquarium motivating knowledge-sharing engagement, designed for Médecins Sans Frontières (MSF) #Connected_IoT
+### A virtual aquarium motivating knowledge-sharing engagement, designed for Médecins Sans Frontières (MSF)
+### with Mélanie Courtinat
+
 ![master_img](./master_img.png)
 ![img2](mockup/2.jpg)
 ![img1](mockup/1.jpg)
