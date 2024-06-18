@@ -1,6 +1,6 @@
 # AquA
-### A virtual aquarium motivating knowledge-sharing engagement, designed for Médecins Sans Frontières (MSF)
-#### Team project with Mélanie Courtinat in 2016
+### A virtual aquarium to engage knowledge-sharing activities, designed for Médecins Sans Frontières (MSF)
+#### A 'historical' team project with Mélanie Courtinat in 2016
 
 ![master_img](./master_img.png)
 ![img2](mockup/2.jpg)
